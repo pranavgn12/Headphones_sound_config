@@ -1,6 +1,4 @@
-# Headphones bass fix
-JamesDSP Linux config
-<br>
-Only equlizer changed
-<br>
-Boat rockerz 650 pro
+# Headphones Sound fix
+JamesDSP Linux config & Equalizer config for Boat rockerz 650 pro
+
+
